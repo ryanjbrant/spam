@@ -1,4 +1,4 @@
-#StreamHash V1.2 #
+Spam is a brand of canned cooked meat made by Hormel Foods Corporation. It was first introduced in 1937 and gained popularity worldwide after its use during World War II. By 2003, Spam was sold in 41 countries on six continents and trademarked in over 100 countries.
 
 ### Features and Changes: ###
 
